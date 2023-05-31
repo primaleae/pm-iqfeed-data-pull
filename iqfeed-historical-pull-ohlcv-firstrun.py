@@ -1,6 +1,7 @@
 # iqfeed-historical-pull-ohlcv.py
 
 # iterates through all symbols pulled with iq-feed-symbol-scraping.py and outputs them in the same directory structure
+# primalmachina/pm-iqfeed-symbol-scraping
 
 # based on various repos, eventually have docker wine going, right now just used to pull data, full pipeline eventually
 # https://www.youtube.com/watch?v=eA7085D0uls
